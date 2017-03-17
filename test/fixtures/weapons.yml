@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  dmgtype: MyString
+  dmgvalue: MyString
+  weapontype: MyString
+  statmodifier: MyString
+  weapon_proficiency_id: 
+
+two:
+  name: MyString
+  dmgtype: MyString
+  dmgvalue: MyString
+  weapontype: MyString
+  statmodifier: MyString
+  weapon_proficiency_id: 
