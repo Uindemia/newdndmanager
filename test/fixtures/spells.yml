@@ -1,0 +1,39 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  character_race_id: 
+  name: MyString
+  spelllevel: MyString
+  spellschool: MyString
+  castingtime: MyString
+  range: MyString
+  components: MyString
+  duration: MyString
+  dmgtype: MyString
+  dmgvalue: MyString
+  description: MyString
+  whorolls: MyString
+  savingthrow: MyString
+  isracespell: false
+  usedbyclass: MyString
+  usesmodifier: false
+  character_class_id: 
+
+two:
+  character_race_id: 
+  name: MyString
+  spelllevel: MyString
+  spellschool: MyString
+  castingtime: MyString
+  range: MyString
+  components: MyString
+  duration: MyString
+  dmgtype: MyString
+  dmgvalue: MyString
+  description: MyString
+  whorolls: MyString
+  savingthrow: MyString
+  isracespell: false
+  usedbyclass: MyString
+  usesmodifier: false
+  character_class_id: 
