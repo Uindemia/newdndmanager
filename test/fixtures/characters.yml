@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  charactername: MyString
+  alignment: MyString
+  experience: 1
+  weight: 9.99
+  height: 9.99
+  inventory: MyText
+
+two:
+  charactername: MyString
+  alignment: MyString
+  experience: 1
+  weight: 9.99
+  height: 9.99
+  inventory: MyText
