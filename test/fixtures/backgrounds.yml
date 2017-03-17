@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  story: MyText
+  ideals: MyText
+  flaws: MyText
+  bonds: MyText
+  provides_for_inventory: MyText
+  languages: MyString
+
+two:
+  name: MyString
+  story: MyText
+  ideals: MyText
+  flaws: MyText
+  bonds: MyText
+  provides_for_inventory: MyText
+  languages: MyString
